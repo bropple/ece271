@@ -1,0 +1,11 @@
+.\objects\printlcd.o: printLCD.c
+.\objects\printlcd.o: stm32l476xx.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm4.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\mpu_armv7.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L4xx\Include\system_stm32l4xx.h
+.\objects\printlcd.o: lcd.h
+.\objects\printlcd.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
